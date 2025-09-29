@@ -1,7 +1,7 @@
 # Lira  
 **AI-powered subtitle generator built in Python**  
 
-📺 **Video Demo**: [Watch on YouTube]([link-here](https://youtu.be/FY9LdKWlSpk?si=EVkbCXQ98N_qQrHT))
+**Video Demo**: [Watch on YouTube](https://youtu.be/FY9LdKWlSpk?si=EVkbCXQ98N_qQrHT)
 
 ---
 
